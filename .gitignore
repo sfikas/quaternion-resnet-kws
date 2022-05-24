@@ -1,0 +1,10 @@
+*tgz
+__pycache__/
+fixtures
+fixtures/
+datasets
+datasets/
+results/*pt
+!results/.dummyfile
+venv*
+results/
